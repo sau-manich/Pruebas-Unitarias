@@ -1,0 +1,5 @@
+c:\users\saul manich\documents\visual studio 2015\Projects\E2-Clase\E2-Clase\bin\Debug\E2-Clase.dll
+c:\users\saul manich\documents\visual studio 2015\Projects\E2-Clase\E2-Clase\bin\Debug\E2-Clase.pdb
+c:\users\saul manich\documents\visual studio 2015\Projects\E2-Clase\E2-Clase\obj\Debug\E2-Clase.csprojResolveAssemblyReference.cache
+c:\users\saul manich\documents\visual studio 2015\Projects\E2-Clase\E2-Clase\obj\Debug\E2-Clase.dll
+c:\users\saul manich\documents\visual studio 2015\Projects\E2-Clase\E2-Clase\obj\Debug\E2-Clase.pdb
